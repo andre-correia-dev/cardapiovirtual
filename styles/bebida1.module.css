@@ -1,0 +1,35 @@
+.bebida1 h1{
+    color: blue;
+    font-size: 55px;
+    text-shadow: 5px 5px 5px black;
+
+}
+.bebida1 button{
+    background: blue;
+    margin-bottom: 25px;
+    width: 200px;
+    height: 70px;
+    border-radius: 50px;
+    font-size: 50px;
+    font-family: fantasy;
+    color: yellow;
+    text-shadow: 5px 5px 5px black;
+    box-shadow: 5px 5px 5px black;
+}
+.bebida1 li{
+    background: blue;
+    width: 500px;
+    height: 170px;
+    margin: auto;
+  margin-bottom: 15px;
+  font-size: 35px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px black;
+
+
+}
+.bebida1 p{
+    font-family: fantasy;
+    color: yellow;
+    text-shadow: 3px 3px 3px black;
+}

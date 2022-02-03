@@ -1,0 +1,49 @@
+  .Navbar{
+      display: flex;
+      background-color: hsl(19, 98%, 51%);
+      padding: 20px 10px;
+      color: yellow;
+      width: 800px;
+      height: 170px;
+      box-shadow: 20px 20px 20px black;
+  
+      margin: auto;
+  }
+  .Navbar a:hover {
+    color: rgb(245, 245, 24);
+    
+    text-decoration: none;
+    transition: .3s ;
+    font-size: 50px;
+
+  }
+  .Navbar a:hover{
+    color: gray;
+  
+  }
+  .Navbar h1{
+    color: rgb(240, 233, 32);
+    font-size: 65px;
+    text-align: center;
+    margin: auto;
+    text-shadow: 3px 3px 3px black;
+
+  }
+  .Navbar a{
+    font-size: 30px;
+    text-align:center;
+    margin: auto ;
+    padding-right: 46px;
+  
+  }
+  .Navbar button{
+    background-color: rgb(255, 225, 0);
+    width: 220px;
+    height: 90px;
+    border-radius: 100px;
+    font-family: fantasy;
+    font-size: 45px;
+    color: rgb(255, 111, 0);
+    box-shadow: 3px 3px 3px rgb(51, 51, 43);
+    text-shadow: 2px 2px 2px black;
+  }

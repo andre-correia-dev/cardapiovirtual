@@ -1,0 +1,57 @@
+.burguer1 {
+ 
+    width: 350px;
+    
+    
+    
+
+}
+.burguer1 h3{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    text-shadow: 3px 3px 3px black;
+}
+
+
+.burguer1 li{
+   color: rgb(255, 102, 0);
+   background-color: yellow;
+   margin-top: 10px;
+   padding-top: 5px;
+   border-radius: 20px;
+   box-shadow: 3px 3px 3px black;
+   font-family: fantasy;
+  
+  font-size: 47px;
+  width: 684px;
+  height: 150px;
+  text-align:left;
+  margin-left: 25px;
+  text-shadow: 5px 5px 5px black;
+  
+
+
+
+ 
+ 
+ 
+ 
+   
+   
+
+}
+.burguer1 button{
+    border-radius: 25px;
+    background-color: rgb(7, 56, 252);
+    width: 200px;
+    height: 55px;
+    font-family: fantasy;
+    font-size: 38px;
+    color: rgb(243, 208, 11);
+    padding-bottom: 20px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: 4px 4px 4px black;
+    
+}
