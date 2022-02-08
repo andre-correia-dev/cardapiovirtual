@@ -15,7 +15,7 @@ export default function Home() {
 
     <>
     <Head>
-       <title>Cardapio virtual</title>
+       <title>super Cardapio virtual</title>
        <meta name='keyworkds' content='comidas, lanches,hamburguer,hotdog'></meta>
        <meta name='description' content='encontre o melhor lanche pra voce'></meta>
     </Head>
