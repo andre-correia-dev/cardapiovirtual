@@ -1,37 +1,30 @@
-.index button { 
-    background: rgb(253, 120, 18);
-    width: 200px;
-    padding: 40px;
-    margin-right: 35px;
-    border-radius: 50px;
-    font-size: 40px;
-    font-family: fantasy;
-    color: rgb(255, 0, 0);
-    text-shadow: 3px 3px 3px black;
-    box-shadow: 5px 5px 5px black;
-    
- 
+.index {
+
+}
    
  
    
 
-}
+
 .index h1{
     font-size: 45px;
-    color: rgb(255, 38, 0);
+    color: rgb(247, 40, 3);
     text-shadow: 3px 3px 3px black;
     margin-top: 20px;
 }
-.index a{
-    color: rgb(230, 255, 2);
+.index p{
+    color: rgb(21, 21, 20);
     font-size: 37px;
     ;
-}.index div{
-    background-color: rgb(255, 238, 0);
-    height: 1100px;
-    width: 550px;
-    border-radius: 25px;
-    margin: auto;
-    box-shadow: 3px 3px 3px black;
+}
+   
+.index li {
+   
+    text-align: left;
+    margin:  0 auto;
+    box-shadow: 5px 5px 5px red;
+    border-radius: 50px;
+    
+    
     
 }

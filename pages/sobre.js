@@ -15,11 +15,7 @@ export default function Sobre(){
             A alimentação do <b >Cardapio Virtual</b>  é confecionada nas nossas instalações e está sujeita a critérios rigorosos no âmbito de certificações da qualidade.
             </p>
 
-            <button>
-
-            <Link href='/'><a>voltar</a></Link>
-
-            </button>
+           
             <div>
          <Image src={pinup} alt='figure' width={400} height={1000}></Image>
          </div>

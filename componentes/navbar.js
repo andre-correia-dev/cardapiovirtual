@@ -9,13 +9,13 @@ export default function Navbar(){
         <div className={styles.Navbar}>
         
         <div>
-                <Link href='/'><a><button>Home</button></a></Link>
+                <Link href='/'><a><button>Lanches</button></a></Link>
         
        
-          <Link href='/produtos'><a><button>Produtos</button></a></Link>
+          <Link href='/produtos'><a><button>Bebidas</button></a></Link>
     
         
-          <Link href='/sobre'><a><button>Sobre</button> </a></Link>
+          <Link href='/sobre'><a><button>Novidades</button> </a></Link>
 
           <h1>Cardapio Virtual   🍔 🍟 🍻</h1>
         

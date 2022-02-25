@@ -26,18 +26,65 @@ export default function Home() {
 
 
       <div className={styles.container}>
-        <li>
-         <Image src={burger2} alt ='figure' width={500}   heigth={800}></Image>
-         </li>
-         <li>
-         <Image  src={batata1} alt='figure' width={500} height={428}></Image>
-         </li>
-         <div>
-         <Image src={pinup} alt='figure' width={200} height={400}></Image>
-         </div>
+       
+      <h3>Burguers:</h3>
+            
+              
+                <li>
+
+                <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
+                    burguinho--------R$ 9,99
+                </li>
+               
+                <li>
+
+                <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
+                      burguinho--------R$ 9,99
+                </li>
+               
+
+                <li>
+                   
+                   <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>burgao-----------R$ 12,99
+                   </li>
+                   
+                   <li>
+   
+                   <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
+                       burguinho--------R$ 9,99
+                   </li>
+                  
+                   <li>
+   
+                   <Image src='/sanduba.jpg' alt="figure" width={150} height={140}></Image>
+                         burguinho--------R$ 9,99
+                   </li>
+                
+                   <li>
+   
+                   <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
+                          burguinho--------R$ 9,99
+                   </li>
+                  
+                   <br></br>
+                   <br></br>
+
+                   
+   
+                   
+
+                
+               
+            
+           
+        </div>
+
+        </>
+    )
+}
     
        
-      </div>
-    </>
-  )
-}
+     
+    
+ 
+

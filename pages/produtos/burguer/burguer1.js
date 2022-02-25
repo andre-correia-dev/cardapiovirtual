@@ -13,11 +13,7 @@ export default function Burguer1(){
             <br></br>
             <Link href='/produtos'><button>voltar</button></Link>
             
-               <li>
-                   
-                <Image src='/sanduba.jpg' alt="figure" width={150} height={140}></Image>burgao: R$ 9,99   <Link href='/'><button>pedir</button></Link>
-                </li>
-                
+              
                 <li>
 
                 <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
