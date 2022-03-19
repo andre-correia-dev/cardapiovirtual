@@ -31,15 +31,15 @@ export default function Home() {
           <h1>Hamburguers</h1>
           <br></br>
           <li>X-SALADA...R$ 6,00</li><br></br>
-          <p>hamburguer,ovo,alface,tomate</p><br></br>
+          <p>hamburguer, ovo, alface, tomate</p><br></br>
           <li>X-BURGUER.....R$ 8,00</li><br></br>
-          <p>hamburguer,ovo,presunto,queijo,alface e tomate</p><br></br>
+          <p>hamburguer, ovo, presunto, queijo, alface e tomate</p><br></br>
           <li>X-BACON.....R$ 10,00</li><br></br>
-          <p>hamburguer,ovo,presunto,queijo,bacon ,salsicha,tomate</p><br></br>
+          <p>hamburguer, ovo, presunto,queijo, bacon ,salsicha,tomate</p><br></br>
           <li>X-CALABRESA.....10,00</li><br></br>
-          <p>hamburguer,ovo,presunto,queijo,calabresa,salsicha,alface,tomate</p><br></br>
+          <p>hamburguer, ovo, presunto,queijo, calabresa, salsicha,alface, tomate</p><br></br>
           <li>X-TUDO....16,00</li><br></br>
-          <p>hamburguer,ovo,presunto,queijo,bacon,milho,batata-palha,salsicha,alface,tomate</p><br></br>
+          <p>hamburguer, ovo, presunto,queijo, bacon, milho,batata-palha, salsicha, alface, tomate</p><br></br>
           <li>X-TUDO DUPLO ...25,00</li><br></br>
           <p>simplesmente DELICIOSO!!!!!</p>
           <br></br>

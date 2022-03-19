@@ -9,6 +9,11 @@ export default function Navbar(){
         <div className={styles.Navbar}>
         
         <div>
+        <h1>Lanchonete familia<br></br> MGA  </h1>
+
+
+
+
                 <Link href='/'><a><button>🍔<br></br>BURGUER </button></a></Link>
         
        
@@ -17,7 +22,7 @@ export default function Navbar(){
         
           <Link href='/sobre'><a><button>🍟 <br></br>salgados</button> </a></Link>
 
-          <h1>Lanchonete familia<br></br> MGA  </h1>
+        
         
         </div>
         <br></br>
