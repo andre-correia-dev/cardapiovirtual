@@ -22,8 +22,8 @@ export default function Produtos(){
            <h1>Refrigerante:</h1><br></br>
            <ul>
               <p>2 litros:</p>
-              <li>fanta, cocacola...........R$ 12,00</li><br></br>
-              <li>pepsi, guarana ant.....R$ 10,00</li><br></br>
+              <li>fanta, cocacola......R$ 12,00</li><br></br>
+              <li>pepsi, guarana ant.R$ 10,00</li><br></br>
               <p>1 litro</p>
               <li>pepsi, guarana ant.....R$ 6,00</li>
               <p>200 ml</p>

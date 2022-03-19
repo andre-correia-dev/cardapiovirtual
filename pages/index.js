@@ -15,7 +15,8 @@ export default function Home() {
 
     <>
     <Head>
-       <title> Cardapio virtual</title>
+      <link  rel='shortcut icon' href='/favicon.jpg'></link>
+       <title>Cardapio virtual</title>
        <meta name='keyworkds' content='comidas, lanches,hamburguer,hotdog'></meta>
        <meta name='description' content='encontre o melhor lanche pra voce'></meta>
     </Head>
