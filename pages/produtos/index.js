@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import styles from '/styles/index.module.css'
+import Head from 'next/head'
 
 
 
@@ -8,12 +9,14 @@ import styles from '/styles/index.module.css'
 export default function Produtos(){
     return(
         <section>
+           <Head>
+      <link  rel='shortcut icon' href='/favicon.jpg'></link>
+       <title>Cardapio virtual</title>
+       <meta name='keyworkds' content='comidas, lanches,hamburguer,hotdog'></meta>
+       <meta name='description' content='encontre o melhor lanche pra voce'></meta>
+    </Head>
+
            <div className={styles.index}>
-           
-           
-           
-           
-           
            </div>
            <h1>suco :</h1>
            <li>COPO ...R$ 3,00</li><br></br> 

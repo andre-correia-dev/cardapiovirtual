@@ -2,11 +2,19 @@ import Link from "next/link"
 import styles from '/styles/sobre.module.css'
 import Image from "next/image"
 import pinup from '../public/pinup.png'
+import Head from 'next/head'
 
 
 export default function Sobre(){
     return (
         <section>
+             <Head>
+      <link  rel='shortcut icon' href='/favicon.jpg'></link>
+       <title>Cardapio virtual</title>
+       <meta name='keyworkds' content='comidas, lanches,hamburguer,hotdog'></meta>
+       <meta name='description' content='encontre o melhor lanche pra voce'></meta>
+    </Head>
+
             <div className={styles.sobre}>
             
             
