@@ -15,7 +15,7 @@ export default function Home() {
 
     <>
     <Head>
-       <title>super Cardapio virtual</title>
+       <title> Cardapio virtual</title>
        <meta name='keyworkds' content='comidas, lanches,hamburguer,hotdog'></meta>
        <meta name='description' content='encontre o melhor lanche pra voce'></meta>
     </Head>
@@ -26,58 +26,28 @@ export default function Home() {
 
 
       <div className={styles.container}>
-       
-      <h3>Burguers:</h3>
-            
-              
-                <li>
-
-                <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
-                    burguinho--------R$ 9,99
-                </li>
-               
-                <li>
-
-                <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
-                      burguinho--------R$ 9,99
-                </li>
-               
-
-                <li>
-                   
-                   <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>burgao-----------R$ 12,99
-                   </li>
-                   
-                   <li>
-   
-                   <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
-                       burguinho--------R$ 9,99
-                   </li>
-                  
-                   <li>
-   
-                   <Image src='/sanduba.jpg' alt="figure" width={150} height={140}></Image>
-                         burguinho--------R$ 9,99
-                   </li>
-                
-                   <li>
-   
-                   <Image src='/sanduba.jpg' alt="figure" width={150} height={140} ></Image>
-                          burguinho--------R$ 9,99
-                   </li>
-                  
-                   <br></br>
-                   <br></br>
-
-                   
-   
-                   
-
-                
-               
-            
-           
+       </div>
+        <div className='lista'>
+          <h1>Hamburguers</h1>
+          <br></br>
+          <li>X-SALADA...R$ 6,00</li><br></br>
+          <p>hamburguer,ovo,alface,tomate</p><br></br>
+          <li>X-BURGUER.....R$ 8,00</li><br></br>
+          <p>hamburguer,ovo,presunto,queijo,alface e tomate</p><br></br>
+          <li>X-BACON.....R$ 10,00</li><br></br>
+          <p>hamburguer,ovo,presunto,queijo,bacon ,salsicha,tomate</p><br></br>
+          <li>X-CALABRESA.....10,00</li><br></br>
+          <p>hamburguer,ovo,presunto,queijo,calabresa,salsicha,alface,tomate</p><br></br>
+          <li>X-TUDO....16,00</li><br></br>
+          <p>hamburguer,ovo,presunto,queijo,bacon,milho,batata-palha,salsicha,alface,tomate</p><br></br>
+          <li>X-TUDO DUPLO ...25,00</li><br></br>
+          <p>simplesmente DELICIOSO!!!!!</p>
+          <br></br>
+        <button><a href='https://chromedino.com/'>jogo do dino</a></button><p>enquanto aguarda seu lanche divirta-se com jogo do dino !!</p>
         </div>
+       
+      
+        
 
         </>
     )

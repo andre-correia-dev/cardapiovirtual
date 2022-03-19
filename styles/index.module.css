@@ -1,30 +1,32 @@
-.index {
-
-}
-   
- 
-   
-
-
-.index h1{
-    font-size: 45px;
-    color: rgb(247, 40, 3);
-    text-shadow: 3px 3px 3px black;
-    margin-top: 20px;
-}
-.index p{
-    color: rgb(21, 21, 20);
-    font-size: 37px;
-    ;
-}
-   
-.index li {
-   
-    text-align: left;
-    margin:  0 auto;
-    box-shadow: 5px 5px 5px red;
-    border-radius: 50px;
+.index{
+    color: rgb(238, 235, 48);
+    display: flex;
+    background-image: url('../public/soconatu4.jpg');
+    height: 90vh;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'ubuntu',sans-serif;
     
     
+   
+  
+  }
+  
+  
+  @media(max-width:600px){
+    .index{
+       height: 150vh;
+  
+       
+        
+        
     
-}
+    
+    }
+    
+    
+  
+  }
+  
+  
+  

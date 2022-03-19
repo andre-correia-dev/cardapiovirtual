@@ -1,29 +1,23 @@
 .sobre{
-  
-    height: 1299px;
-}
-.sobre h1{
-    color: rgb(0, 60, 255);
-    font-size: 70px;
-    text-shadow: 3px 3px 3px black;
-}
-.sobre p{
-    color: rgb(247, 90, 90);
-    font-size: 40px;
-    text-shadow: 3px 3px 3px black;
-    margin-bottom: 20px;
-}
-.sobre button{
-    background-color: rgb(255, 247, 0);
-    width: 200px;
-    height: 70px;
-    font-size: 40px;
-    border-radius: 50px;
-    margin-bottom: 5px;
-    box-shadow: 3px 3px 3px black;
+    color: rgb(238, 235, 48);
+    display: flex;
+    background-image: url('../public/batatafrita3.jpg');
+    height: 85vh;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'ubuntu',sans-serif;
     
-}
-.sobre a{
-    font-family: fantasy;
-    color: blue;
-}
+    
+   
+  
+  }
+  @media(max-width:600px){
+    .sobre{
+        height: 150vh;
+    }
+    
+  
+  }
+  
+  
+  

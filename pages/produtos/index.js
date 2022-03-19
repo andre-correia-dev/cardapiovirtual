@@ -7,39 +7,25 @@ import styles from '/styles/index.module.css'
 
 export default function Produtos(){
     return(
-        <div className={styles.index}>
-             <h1>Bebidas</h1>
-            <br></br>
-              
-            
-            <li>
-               <Image src='/cerveja.jpg' alt="figure" width={150} height={150} ></Image><p>    cerveja lata------------------R$ 3,99</p>
-            </li>
-            <li>
-               <Image src='/cocacola.jpg' alt="figure" width={150} height={150} ></Image><p>cocacola lata----------------R$ 3,00</p>
-            </li>
-            <li>
-               <Image src='/suco.jpg' alt="figure" width={150} height={150} ></Image><p>suco natural-----------------R$ 3.00</p>
-            </li>
-            <li>
-               <Image src='/cerveja.jpg' alt="figure" width={150} height={150} ></Image><p>cerveja lata--------------------R$ 3,99</p>
-            </li>
-            <li>
-               <Image src='/cocacola.jpg' alt="figure" width={150} height={150} ></Image><p>cocacola lata----------------R$ 3,00</p>
-            </li>
-            <li>
-               <Image src='/suco.jpg' alt="figure" width={150} height={150} ></Image><p>suco natural-----------------R$ 3.00</p>
-            </li>
+        <section>
+           <div className={styles.index}>
            
-            <br></br>
-            <br></br>
            
-            
-                   
-
-
-          
-
-        </div>
+           
+           
+           
+           </div>
+           <h1>suco :</h1>
+           <li>COPO PEQUENO...R$ 1,00</li><br></br>
+           <li>COPO GRANDE......R$ 2,00</li>
+           <br></br>
+           <h1>Refrigerante:</h1><br></br>
+           <li>COPO PEQUENO....R$ 1,00</li><br></br>
+           <li>COPO GRANDE......R$ 2,00</li>
+           <br></br>
+           <button><a href='https://chromedino.com/'>jogo do dino</a></button>
+           <br></br>
+           <p>enquanto aguarda seu lanche divirta-se com jogo do dino !!</p>
+        </section>
     )
 }

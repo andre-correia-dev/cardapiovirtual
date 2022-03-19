@@ -12,7 +12,7 @@ export default function MainContainer({children}){
                  {children}
                 
              </div>
-             <Footer></Footer>
+            
         </div>
     )
 }

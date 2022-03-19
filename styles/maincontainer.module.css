@@ -1,19 +1,74 @@
 .container{
  
-    padding: 20px;
+    padding: 0px;
     text-align: center;
-    
+    background-color: rgb(247, 62, 6);
    
     width: 781px;
     margin: auto;
-    height: 1500px;
+    height: 1800px;
+   
 
     
     
 
 
 }
+.container h1{
+    color: rgb(255, 238, 0);
+    text-shadow: 3px 3px 3px black;
+    font-size: 65px;
+}
+.container li{
+    color: rgb(38, 236, 12);
+    font-size: 45px;
+    text-shadow: 2px 2px 2px rgb(14, 2, 2);
+   
+}
+.container p{
+    color: rgb(22, 22, 22);
+    font-size: 25px;
+    text-align: center;
+}
+.container button{
+    background-color: rgb(255, 238, 0);
+    width: 300px;
+    height: 100px;
+    font-size: 40px;
+    font-family: fantasy;
+    margin-top: 80px;
+ }
+ 
+@media(max-width:600px){
+    .container{
+        height: 2600px;
+}
+.container h1{
+    font-size: 85px;
+}
+.container li{
+    font-size: 60px;
+    color: rgb(25, 26, 25);
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    
+}
+.container p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+}
+.container button{
+   background-color: rgb(255, 238, 0);
+   width: 300px;
+   height: 100px;
+   font-size: 40px;
+   font-family: fantasy;
+   margin-top: 80px;
+}
 
+}
 
 
    
