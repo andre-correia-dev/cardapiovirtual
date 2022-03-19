@@ -37,11 +37,14 @@
     font-size: 40px;
     font-family: fantasy;
     margin-top: 80px;
+    border-radius: 20px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: 3px 3px 3px black;
  }
  
 @media(max-width:600px){
     .container{
-        height: 2900px;
+        height: 3000px;
 }
 .container h1{
     font-size: 85px;
@@ -66,6 +69,7 @@
    font-size: 40px;
    font-family: fantasy;
    margin-top: 80px;
+   border-radius: 20px;
 }
 
 }

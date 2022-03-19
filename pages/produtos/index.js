@@ -16,12 +16,23 @@ export default function Produtos(){
            
            </div>
            <h1>suco :</h1>
-           <li>COPO PEQUENO...R$ 1,00</li><br></br>
-           <li>COPO GRANDE......R$ 2,00</li>
+           <li>COPO ...R$ 3,00</li><br></br> 
+           <li>COPO vitamina......R$ 4,00</li>
            <br></br>
            <h1>Refrigerante:</h1><br></br>
-           <li>COPO PEQUENO....R$ 1,00</li><br></br>
-           <li>COPO GRANDE......R$ 2,00</li>
+           <ul>
+              <p>2 litros:</p>
+              <li>fanta, cocacola...........R$ 12,00</li><br></br>
+              <li>pepsi, guarana ant.....R$ 10,00</li><br></br>
+              <p>1 litro</p>
+              <li>pepsi, guarana ant.....R$ 6,00</li>
+              <p>200 ml</p>
+              <li>pepsi, guarana ant.....R$ 2,00</li>
+              <p>250 ml</p>
+              <li>cocacola.....................R$ 2,50</li>
+              <li></li>
+
+           </ul>
            <br></br>
            <button><a href='https://chromedino.com/'>jogo do dino</a></button>
            <br></br>

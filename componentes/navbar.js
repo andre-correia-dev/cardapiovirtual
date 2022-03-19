@@ -14,7 +14,7 @@ export default function Navbar(){
 
 
 
-                <Link href='/'><a><button>🍔<br></br>BURGUER </button></a></Link>
+                <Link href='/'><a><button>🍔<br></br>Burguers </button></a></Link>
         
        
           <Link href='/produtos'><a><button>🍻<br></br>Bebidas</button></a></Link>
