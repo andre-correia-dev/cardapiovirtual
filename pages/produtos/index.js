@@ -37,9 +37,7 @@ export default function Produtos(){
 
            </ul>
            <br></br>
-           <button><a href='https://chromedino.com/'>jogo do dino</a></button>
-           <br></br>
-           <p>enquanto aguarda seu lanche divirta-se com jogo do dino !!</p>
+           <a href='https://cdn.htmlgames.com/BurgerShop/'><img src='burguergame.jpg'></img> </a><p>Divirta-se com burguergame</p>
         </section>
     )
 }

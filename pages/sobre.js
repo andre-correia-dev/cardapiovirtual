@@ -33,7 +33,7 @@ export default function Sobre(){
             <li> P. pequena...R$ 10,00</li><br></br>
             <li>P. GRANDE R$ 15,00</li>
             <br></br>
-            <button><a href='https://chromedino.com/'>jogo do dino</a></button><p>Enquanto aguarda seu lanche divirta-se com jogo do dino !!</p>
+            <a href='https://cdn.htmlgames.com/BurgerShop/'><img src='burguergame.jpg'></img> </a><p>Divirta-se com burguergame</p>
         </section>
     )
  }

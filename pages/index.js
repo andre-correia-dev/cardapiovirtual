@@ -44,7 +44,7 @@ export default function Home() {
           <li>X-TUDO DUPLO ...25,00</li><br></br>
           <p>simplesmente DELICIOSO!!!!!</p>
           <br></br>
-        <button><a href='https://chromedino.com/'>jogo do dino</a></button><p>enquanto aguarda seu lanche divirta-se com jogo do dino !!</p>
+          <a href='https://cdn.htmlgames.com/BurgerShop/'><img src='burguergame.jpg'></img> </a><p>Divirta-se com burguergame</p>
         </div>
        
       
